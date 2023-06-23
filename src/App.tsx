@@ -91,9 +91,6 @@ function App() {
       setDevices(value)
     })
 
-
-
-
     agoraEngine.on("user-published", async (user, mediaType) =>
     {
       // Subscribe to the remote user when the SDK triggers the "user-published" event.
