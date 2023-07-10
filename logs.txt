@@ -1,0 +1,149 @@
+UTC+03:00 -- 09:53:46:113 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:46:117 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:46:117 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:46:117 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:46:117 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:46:124 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:46:124 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:46:124 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:47:568 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:47:569 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:47:569 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:47:570 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:47:621 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:47:621 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:47:621 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:47:626 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:47:627 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:47:627 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:47:627 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:49:331 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:49:336 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:49:337 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:49:337 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:49:337 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:49:343 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:49:343 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:49:343 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:50:442 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:50:443 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:50:443 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:50:443 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:50:550 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:50:550 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:50:550 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:50:555 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:50:555 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:50:555 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:50:555 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:51:960 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:51:962 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:51:962 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:51:963 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:51:963 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:51:969 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:51:970 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:51:970 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:53:503 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:53:505 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:53:505 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:53:505 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:53:556 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:53:557 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:53:557 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:53:562 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:53:562 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:53:562 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:53:562 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:54:648 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:54:650 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:54:650 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:54:650 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:54:651 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:54:656 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:54:656 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:54:656 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:55:500 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:55:502 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:55:502 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:55:503 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:55:557 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:55:558 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:55:558 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:55:562 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:55:562 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:55:562 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:55:562 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:56:868 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:56:870 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:56:870 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:56:870 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:56:871 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:56:876 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:56:877 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:56:877 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:57:643 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:57:644 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:57:644 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:57:644 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:57:704 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:57:705 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:57:705 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:57:710 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:57:710 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:57:710 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:57:711 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:58:542 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:58:543 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:53:58:543 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:53:58:544 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:58:544 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:58:550 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:53:58:550 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:53:58:550 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:59:302 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:53:59:303 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:53:59:303 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:53:59:303 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:53:59:362 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:53:59:363 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:59:363 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:59:368 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:53:59:368 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:53:59:368 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:53:59:369 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:54:00:161 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:54:00:163 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: true] to [enabled: false]
+UTC+03:00 -- 09:54:00:163 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled false
+UTC+03:00 -- 09:54:00:163 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:54:00:163 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.muteLocal
+UTC+03:00 -- 09:54:00:169 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.muteLocal
+UTC+03:00 -- 09:54:00:169 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleMuteLocalTrack
+UTC+03:00 -- 09:54:00:169 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:54:00:804 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is locked, current queue 1. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:54:00:805 Agora-SDK [DEBUG]: check track state, [muted: false, enabled: false] to [enabled: true]
+UTC+03:00 -- 09:54:00:805 Agora-SDK [INFO]: [track-mic-a89c8569] start setEnabled true
+UTC+03:00 -- 09:54:00:806 Agora-SDK [DEBUG]: [track-mic-a89c8569] GetUserMedia {"audio":{}}
+UTC+03:00 -- 09:54:00:867 Agora-SDK [DEBUG]: [track-mic-a89c8569] update player source track
+UTC+03:00 -- 09:54:00:867 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:54:00:868 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:54:00:874 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.unmuteLocal
+UTC+03:00 -- 09:54:00:874 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. Locking from P2PChannel.handleUnmuteLocalTrack
+UTC+03:00 -- 09:54:00:874 Agora-SDK [INFO]: [track-mic-a89c8569] setEnabled success
+UTC+03:00 -- 09:54:00:874 Agora-SDK [DEBUG]: [lock-track-mic-a89c8569-10] is not locked, current queue 0. From MicrophoneAudioTrack.setEnabled
+UTC+03:00 -- 09:54:24:504 Agora-SDK [DEBUG]: [client-368aa] receive mute message 2 audio true
+UTC+03:00 -- 09:54:24:504 Agora-SDK [DEBUG]: [client-368aa] user-info-update, uid: 2, msg: mute-audio
+UTC+03:00 -- 09:54:24:504 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. From P2PChannel.muteRemote
+UTC+03:00 -- 09:54:24:505 Agora-SDK [INFO]: [client-368aa] remote user 2 unpublished audio
+UTC+03:00 -- index-0f9bb68c.js:80 2has left the channel
+UTC+03:00 -- 09:54:24:507 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. From P2PChannel.muteRemote
+UTC+03:00 -- 09:54:35:245 Agora-SDK [DEBUG]: [client-368aa] stream removed with uid 2
+UTC+03:00 -- 09:54:35:246 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is locked, current queue 1. From P2PChannel.unsubscribe
+UTC+03:00 -- 09:54:35:249 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is locked, current queue 1. From P2PConnection.stopReceiving
+UTC+03:00 -- 09:54:35:252 Agora-SDK [DEBUG]: [track-audio-2-client-368aa_277da] audio-element-status change playing => suspend
+UTC+03:00 -- 09:54:35:255 Agora-SDK [DEBUG]: [lock-P2PConnection-mutex-9] is not locked, current queue 0. From P2PConnection.stopReceiving
+UTC+03:00 -- 09:54:35:255 Agora-SDK [INFO]: [track-audio-2-client-368aa_277da] is destroyed
+UTC+03:00 -- 09:54:35:255 Agora-SDK [DEBUG]: [track-audio-2-client-368aa_277da] stop audio playback
+UTC+03:00 -- 09:54:35:256 Agora-SDK [DEBUG]: [lock-P2PChannel-mutex-8] is not locked, current queue 0. From P2PChannel.unsubscribe
+UTC+03:00 -- 09:54:35:256 Agora-SDK [DEBUG]: [track-audio-2-client-368aa_277da] audio-element-status change undefined => abort
+UTC+03:00 -- 09:54:35:256 Agora-SDK [DEBUG]: [track-audio-2-client-368aa_277da] audio-element-status change abort => emptiedUTC+03:00 --
